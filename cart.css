@@ -1,0 +1,47 @@
+
+
+
+#shopping-cart {
+	margin: 40px;
+}
+
+
+#shopping-cart table {
+	width: 100%;
+	background-color: #F0F0F0;
+}
+
+#shopping-cart table td {
+	background-color: #FFFFFF;
+}
+
+.txt-heading {
+	color: #211a1a;
+	border-bottom: 1px solid #E0E0E0;
+	overflow: auto;
+}
+
+.btnEmpty {
+	background-color: #ffffff;
+	padding: 10px 10px;
+	float: right;
+	text-decoration: none;
+	border-radius: 3px;
+	margin: 10px 0px;
+	cursor: pointer;
+}
+
+.tbl-cart {
+	font-size: 0.9em;
+}
+
+.tbl-cart th {
+	font-weight: normal;
+}
+
+
+.no-records {
+	text-align: center;
+	clear: both;
+	margin: 38px 0px;
+}
